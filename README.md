@@ -2,4 +2,4 @@
 
 ### Jy's Blog
 
-### see issues.
+### Star it, don't fork!
